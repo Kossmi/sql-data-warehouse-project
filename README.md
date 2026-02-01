@@ -41,5 +41,5 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 
 
 This project is based on the original work by **Baraa Khatib Salkini**  
-and was created following their instructions and guidelines.  
+and was created following his instructions and guidelines.  
 This project was developed and extended as part of my learning process and for portfolio purposes.
